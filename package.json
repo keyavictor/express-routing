@@ -1,0 +1,25 @@
+{
+  "name": "timecraft",
+  "version": "1.0.0",
+  "description": "timecraft timetabling system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "timetable",
+    "timecraft",
+    "maseno"
+  ],
+  "author": "Keya Victor",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
